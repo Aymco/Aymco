@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Aymco/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Aymco)](https://githubtrends.io)
 
 <!--
 **Aymco/Aymco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
